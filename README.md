@@ -48,7 +48,7 @@ Latest repository can be cloned and built by:
 git clone https://github.com/ddccontrol/ddccontrol-db.git
 cd ddccontrol-db
 ./autogen.sh 
-./configure --prefix=/usr/
+./configure --prefix=/usr/local
 make
 ```
 
